@@ -1,0 +1,23 @@
+{
+  "name": "nodepkg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoo3301/nodePKG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apoo3301/nodePKG/issues"
+  },
+  "homepage": "https://github.com/apoo3301/nodePKG#readme",
+  "description": "",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "path": "^0.12.7"
+  }
+}
